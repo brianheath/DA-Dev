@@ -1,0 +1,19 @@
+//
+// I like it dark.
+//
+
+:root {
+    --color-bg-dark: #0d1117;                                                                                         // Thanks, GitHub!
+
+    // --color-font-light: #efeddd;
+    --color-font-light: #f0f6fc;                                                                                      // "
+}
+
+body {
+    background-color: var(--color-bg-dark);
+    color: var(--color-font-light);
+
+    margin: 0;
+    padding: 0;
+}
+
